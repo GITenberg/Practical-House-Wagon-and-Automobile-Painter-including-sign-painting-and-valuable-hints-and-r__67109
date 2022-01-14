@@ -1,11 +1,16 @@
 _repo: Practical-House-Wagon-and-Automobile-Painter-including-sign-painting-and-valuable-hints-and-r__67109
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67109-h/images/cover.jpg
 creator:
   author:
     agent_name: White, W. F.
     gutenberg_agent_id: '54119'
     url: http://www.gutenberg.org/2009/agents/54119
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67109#Practical-House-Wagon-and-Automobile-Painter-including-sign-painting-and-valuable-hints-and-r_
 gutenberg_issued: '2022-01-05'
 identifiers:
   gutenberg: '67109'
